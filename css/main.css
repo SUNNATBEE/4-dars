@@ -1,0 +1,15 @@
+*{
+  
+    list-style: none;
+    text-decoration: none;
+}
+
+.header-navigation-links{
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+letter-spacing: 1.5px;
+
+}
